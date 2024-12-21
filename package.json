@@ -1,0 +1,14 @@
+{
+  "name": "revite",
+  "version": "1.0.0",
+  "main": "revite.js",
+  "bin": {
+    "revite": "./revite.js" 
+  },
+  "keywords": ["react", "reset", "css", "cleanup"],
+  "author": "Rohan Salunkhe",
+  "license": "MIT",
+  "description": "A script to reset CSS and App.jsx files in a React Vite project."
+}
+
+
