@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # provite
 
 **provite** is a simple CLI tool to reset your React project files. It clears out the default boilerplate code and CSS, providing you with a clean slate to start building your application from scratch.
