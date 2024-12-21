@@ -1,9 +1,9 @@
 {
-  "name": "revite",
+  "name": "provite",
   "version": "1.0.0",
-  "main": "revite.js",
+  "main": "provite.js",
   "bin": {
-    "revite": "./revite.js" 
+    "provite": "./provite.js" 
   },
   "keywords": ["react", "reset", "css", "cleanup"],
   "author": "Rohan Salunkhe",
