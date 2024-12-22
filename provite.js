@@ -16,7 +16,7 @@ const appjsx = path.join(process.cwd(),'src','App.jsx');
 
 const content = 
 `
-import React from React;
+import React from 'react';
 
 function App(){
     return(
